@@ -1,0 +1,23 @@
+body{
+    background: linear-gradient(90deg, red, blue);
+    font-family: sans-seriff;
+}
+#content {
+    background: white;
+    width: 400px;
+    margin: auto;
+    text-align: center;
+    padding: 20px;
+    border-radius: 5px;
+}
+#eightBall {
+    width: 350px;
+    height: 350px;
+    background: black;
+    color: white;
+    margin: auto;
+    border-radius: 100%;
+}
+#answer {
+    font-size: 25px;
+}

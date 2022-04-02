@@ -1,14 +1,12 @@
-# Bootstrap-Boilerplate
+# JS 8ball
 
-# Bootstrap-Template
-### For regular use
+### For Fun
 
 ## Description
-A basic HTML5 Bootstrap template, including the required CSS and JS for Bootstrap to run.
+Simple 8ball with minimal styling.
 
 ## What you need
-- Understanding of [Bootstrap] (https://getbootstrap.com/)
-- Strong understanding of HTML5.
+- Understanding of JavaScript)
 - File Editor of your choice.
 
 ## Installation
